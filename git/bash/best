@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Best"
+
+sed -i 's/echo "Best"/echo "This School is so cool!"/' bash/best
